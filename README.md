@@ -1,7 +1,6 @@
-# Sahan Lelwala  
- _rash98sl_
+# Sahan Lelwala  (_rash98sl_)
 
-**3rd Year Computer Engineering Undergrad** at _Faculty of Engineering, University of Ruhuna, Sri Lanka_
+3rd Year **Computer Engineering** Undergrad at _Faculty of Engineering, University of Ruhuna, Sri Lanka_
 
 - **Programming Languages**: JavaScript, Java, Python, PHP, Go, Rust, C#, Verilog, VHDL, Assembly
 - **Web Technologies**: HTML5, CSS3, React.js, Angular.js
