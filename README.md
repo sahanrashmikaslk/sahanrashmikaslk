@@ -7,6 +7,7 @@
 - **Tools & Frameworks**: Visual Studio Code, Unity, IntelliJ, MySQL, Eclipse, Arduino, Proteus, ModelSim
 - **UI/UX Designing**: Passionate about creating intuitive and visually appealing user interfaces.
 - **IEEE**: Actively involved in IEEE activities at the University. From organizing workshops to participating in technical events.
+- **Passionate about robotics and automation**: Enthusiastic about exploring the realms of robotics and automation to innovate and create impactful solutions.
 
 [![About.me Badge](https://img.shields.io/badge/-sahanlelwala.me-B4B4B8?style=flat-square&logo=About.me&logoColor=white&link=https://sahanlelwala.me)](https://sahanlelwala.me)
 [![Linkedin Badge](https://img.shields.io/badge/-Sahan_Lelwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white&lik=https://www.linkedin.com/in/sahan-lelwala/)](https://www.linkedin.com/in/sahan-lelwala/)
