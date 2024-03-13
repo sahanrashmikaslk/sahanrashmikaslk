@@ -2,9 +2,9 @@
 
 3rd Year **Computer Engineering** Undergrad at _Faculty of Engineering, University of Ruhuna, Sri Lanka_
 
-- **Programming Languages**: JavaScript, Java, Python, PHP, Go, Rust, C#, SQL, Verilog, VHDL, Assembly
+- **Programming Languages**: JavaScript, Java, Python, PHP, Go, Rust, C, C++, C#, SQL, Verilog, VHDL, Assembly
 - **Web Technologies**: HTML5, CSS3, React.js, Angular.js
-- **Tools & Frameworks**: Visual Studio Code, Unity, IntelliJ, MySQL, Eclipse, Arduino, Proteus, ModelSim
+- **Tools & Frameworks**: Visual Studio Code, Unity, IntelliJ, MySQL, Eclipse, Arduino, Proteus, ModelSim, MPLAB.
 - **UI/UX Designing**: Passionate about creating intuitive and visually appealing user interfaces.
 - **IEEE**: Actively involved in IEEE activities at the University. From organizing workshops to participating in technical events.
 - **Passionate about robotics and automation**: Enthusiastic about exploring the realms of robotics and automation to innovate and create impactful solutions.
