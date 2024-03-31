@@ -5,6 +5,8 @@ A driven 3rd-year Computer Engineering undergrad at the UoR, SL, with a passiona
 - **Programming Languages**: JavaScript, Java, Python, C, C++, C#, SQL, Verilog, VHDL, Assembly
 - **Web Technologies**: HTML5, CSS3, React.js, Angular.js
 - **Tools & Frameworks**: Visual Studio Code, Unity, IntelliJ, MySQL, Eclipse, Flutter, ModelSim, Git
+- **AI Development**: Machine Learning - Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+ANN – TensorFlow, PyTorch, OpenCV
 - **UI/UX Designing**: Figma, Balsamiq, Canva (Passionate about creating intuitive and visually appealing user interfaces)
 - **Robotics and Automation**: Embedded Systems, HDL, Proteus, MPLAB X, Arduino, Linux OS, ModelSim (Enthusiastic about exploring Robotics to innovate and create impactful solutions)
 - **Strong understanding of Linux Operating Systems and basic Networking principles as well**
