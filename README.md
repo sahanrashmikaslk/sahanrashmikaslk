@@ -10,8 +10,7 @@ ANN – TensorFlow, PyTorch, OpenCV
 - **UI/UX Designing**: Figma, Balsamiq, Canva (Passionate about creating intuitive and visually appealing user interfaces)
 - **Robotics and Automation**: Embedded Systems, HDL, Proteus, MPLAB X, Arduino, Linux OS, ModelSim (Enthusiastic about exploring Robotics to innovate and create impactful solutions)
 - **Strong understanding of Linux Operating Systems and basic Networking principles as well**
-- **Knowledgeable in cloud environments, and cloud infrastructure automation**: Azure, AWS
-- **IEEE**: Actively involved in IEEE activities at the University. From organizing workshops to participating in technical events.
+- **Knowledgeable in cloud environments, and cloud infrastructure automation**
 
 [![About.me Badge](https://img.shields.io/badge/-sahanlelwala.me-B4B4B8?style=flat-square&logo=About.me&logoColor=white&link=https://sahanlelwala.me)](https://sahanlelwala.me)
 [![Linkedin Badge](https://img.shields.io/badge/-Sahan_Lelwala-0077B5?style=flat-square&logo=Linkedin&logoColor=white&lik=https://www.linkedin.com/in/sahan-lelwala/)](https://www.linkedin.com/in/sahan-lelwala/)
