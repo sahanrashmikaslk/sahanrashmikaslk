@@ -17,7 +17,7 @@ A driven 3rd year Computer Engineering undergrad at Faculty of Engineering, Univ
   <br> DevOps – AWS
 - **IDEs & Others**:
   <br> Git, GitHub, Jira, VS Code, Visual Studio, JetBrains, Eclipse, Linux OS
-  <br> Computer Networking – Cisco Packet Trace
+  <br> Computer Networking 
 - **Strong understanding of IOT, Knowledgeable in cloud environments and basic Networking principles as well**
 
 [![About.me Badge](https://img.shields.io/badge/-sahanlelwala.me-B4B4B8?style=flat-square&logo=About.me&logoColor=white&link=https://sahanlelwala.me)](https://sahanlelwala.me)
