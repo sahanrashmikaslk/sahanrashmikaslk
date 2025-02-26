@@ -9,7 +9,7 @@ A driven 3rd year Computer Engineering undergrad at Faculty of Engineering, Univ
   <br> HDL – VHDL, Verilog, Modelsim
 - **AI Development**:
   <br> Machine Learning - Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
-  <br> ANN – TensorFlow, PyTorch, OpenCV
+  <br> AI – TensorFlow, PyTorch, OpenCV
 - **Web Development**:
   <br> Web Technologies – React.js, Angular.js, Node.js, Express.js, Spring Boot
   <br> UI/UX Designing – Figma, WPF
