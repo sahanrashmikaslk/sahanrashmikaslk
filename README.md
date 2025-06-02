@@ -1,6 +1,6 @@
 # Sahan Lelwala
 
-A driven 3rd year Computer Engineering undergrad at Faculty of Engineering, University of Ruhuna, SL, with a fervent passion for Embedded Software / Systems development, IOT & Robotics. Proficient in Git to AWS, and an array of programming languages, I specialize in Software & Hardware both. Furthermore, as an innovator, I actively engaged in IEEE activities, from organizing workshops to participating in technical events and committed to leveraging technology for positive change
+A driven final year Computer Engineering undergrad at Faculty of Engineering, University of Ruhuna, SL, with a fervent passion for Embedded Software / Systems development, IOT & Robotics. Proficient in Git to AWS, and an array of programming languages, I specialize in Software & Hardware both. Furthermore, as an innovator, I actively engaged in IEEE activities, from organizing workshops to participating in technical events and committed to leveraging technology for positive change
 
 - **Programming Languages**:
   <br> JavaScript, Java, Python, C, C++, C#, SQL, Verilog, VHDL, Assembly
