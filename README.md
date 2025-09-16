@@ -45,10 +45,6 @@ A final year Computer Engineering student at University of Ruhuna with expertise
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahanrashmikaslk&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanrashmikaslk&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
