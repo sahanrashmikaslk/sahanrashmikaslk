@@ -1,6 +1,6 @@
 # Sahan Lelwala
 
-A final year Computer Engineering student at University of Ruhuna with expertise in **embedded systems**, **IoT monitoring**, **robotics**, **electronics**, **IC design**, and **full-stack development**. During my **Magicbit internship**, I mastered embedded firmware programming for solar energy monitoring systems with **IoT platforms** and **edge computing**. I excel in bridging hardware and software domains, from low-level **FPGA programming** to **cloud microservices**. As an active **IEEE member**, I engage in organizing technical workshops, participating in engineering competitions, and contributing to the professional engineering community, committed to leveraging technology for positive change.
+A final year Computer Engineering student at University of Ruhuna with expertise in **embedded systems**, **IoT monitoring**, **robotics**, **electronics**, **IC design**, and **full-stack development**. During my **Magicbit internship**, I mastered embedded firmware programming for solar energy monitoring systems with **IoT platforms** and **edge computing**. I excel in bridging hardware and software domains, from low-level **FPGA programming** to **cloud microservices**. Furthermore, as an innovator, I actively engaged in IEEE activities, from organizing workshops to participating in technical events and committed to leveraging technology for positive change.
 
 ### Programming Languages
 - **Experienced**: C, C++, C#
